@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 I'm Highly-skilled and motivated software engineer from Egypt, passionate about building world-class products through software development and engineering skills and I am actively seeking opportunities to leverage my skills and contribute to impactful projects.
 
 
+- 🌱 I’m currently learning MERN 
+- 📫 How to reach me: eslamabdullatif21@gmail.com
+- ⚡ Fun fact: I'm Funny
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/eslammabdullatif"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
