@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My name is Eslam;I'm a software Engineer)](https://git.io/typing-svg)
 I'm Highly-skilled and motivated software engineer from Egypt, passionate about building world-class products through software development and engineering skills and I am actively seeking opportunities to leverage my skills and contribute to impactful projects.
 
