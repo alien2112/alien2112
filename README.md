@@ -55,9 +55,12 @@ I'm Highly-skilled and motivated software engineer from Egypt, passionate about 
   </div>
 </section>
 
+<br/>
+
 <section>
   <h2>🧰 Frameworks and Libraries</h2>
   <div>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
     </a>
