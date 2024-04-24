@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Highly-skilled and motivated software engineer from Egypt, passionate about building world-class products through software development and engineering skills and I am actively seeking opportunities to leverage my skills and contribute to impactful projects.
 
-
+- 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning MERN 
 - 📫 How to reach me: eslamabdullatif21@gmail.com
 - ⚡ Fun fact: I'm Funny
