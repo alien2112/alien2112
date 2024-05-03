@@ -25,8 +25,8 @@ I'm Highly-skilled and motivated software engineer from Egypt, passionate about 
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://linkedin.com/in/eslammabdullatif"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://linkedin.com/in/eslammabdullatif"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
 <!--   <a href="https://discord.com/users/889671054581178459" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  -->
