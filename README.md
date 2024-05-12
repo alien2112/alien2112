@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi there 👋!;My+name+is+Eslam;I'm+a+software+Engineer" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi there 👋!;My+name+is+Eslam;I'm+a+software+Engineer" alt="Typing SVG" /></a>
 
 I'm Highly-skilled and motivated software engineer from Egypt, passionate about building world-class products through software development and engineering skills and I am actively seeking opportunities to leverage my skills and contribute to impactful projects.
 
