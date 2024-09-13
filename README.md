@@ -86,7 +86,11 @@ I'm Highly-motivated software engineer from Egypt, passionate about building pro
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
     </a>
   </div>
-  <a href="https://visitcount.itsvg.in">
+  
+</section>
+<br/>
+<section>
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=eslam&label=Profile%20Views&color=0&pretty=false" />
 </a>
 </section>
